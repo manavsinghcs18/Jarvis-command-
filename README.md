@@ -1,0 +1,2 @@
+# Jarvis-command-
+Jarvis is a special program which is the backbone of Tony Stark in Marvel Cinematic Universe in it you can ask him to to greet as good morning, evening and night you can send email to anyone by giving voice command, Calaculate Add , Sub, Mul , Div , Mod, Square, Cube, you can also open Wikipedia open  YouTube , google, chrome, GDB compiler,  Whatsapp  , play store, stack overflow, play music ,ask the time also, virtual studios code by simply giving an voice command
